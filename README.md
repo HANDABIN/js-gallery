@@ -1,5 +1,5 @@
 # next-gallery
-데모:git@github.com:HANDABIN/next-gallery.git
+데모:[git@github.com:HANDABIN/next-gallery.git](https://github.com/HANDABIN/next-gallery/)
 
 # 소개
 넘기기 기능 Basic 갤러리
